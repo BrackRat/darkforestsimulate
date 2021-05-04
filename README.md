@@ -8,4 +8,4 @@
 
 activeCv 函数可自定义互动结果
 
-通过manimSimulate.py 可以在manim引擎模拟文明动画
+通过darkVideo.py 可以在manim引擎模拟文明动画
